@@ -2,7 +2,7 @@
 
 Repositório da turma 2C
 
-# ESTE É O REPOSITÓRIO DA ALUNA "MIRIÃ DE OLIVEIRA"
+# Este é o repositório da aluna "Miriã De Oliveira"
 
 sejam todos bem vindos
 
