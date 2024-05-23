@@ -10,6 +10,5 @@ sejam todos bem vindos
 
 contato email 📧 00001121439895sp@al.ducacao.sp.gov.br
 
- Repositório da turma 2C © 2024 by Miriã De Oliveira is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
-
+  Repositório da turma 2C © 2024 by Miriã De Oliveira is marked with CC0 1.0 Universal 
 
